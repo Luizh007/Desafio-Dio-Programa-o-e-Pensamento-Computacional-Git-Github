@@ -7,8 +7,7 @@
 1. **Decomposição:** dividir o seu desafio em problemas menores, para facilitar a sua compreensão.
 2. **Abstração:** reconhecer o que é mais importante na situação(problema) quase sempre deixar de lado o que não for essencial.
 3. **Reconhecimento de padrão**: o que se assemelha no problema, quais as repetições e similaridades que ele tem e que podem auxiliar na sua resolução.
-
-   4.**Algoritmo:** propõe uma ordem e sequência de passos para resolver o desafio ou problema desse jeito fica mais fácil o trabalho
+4. **Algoritmo:** propõe uma ordem e sequência de passos para resolver o desafio ou problema desse jeito fica mais fácil o trabalho
 
  ### lógica 
 
