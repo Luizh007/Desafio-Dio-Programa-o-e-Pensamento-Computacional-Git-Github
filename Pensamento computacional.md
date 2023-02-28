@@ -16,6 +16,6 @@
 
    Como o nome fala você devera usar a lógica mas pode se a do dia a dia para resolver os problemas, como organização e planejamento das instruções, assertivas em um algoritmo de mudo que implantação de um programa
 
-[Portugol](https://dgadelha.github.io/Portugol-Webstudio/)um bom site que para estuda é erra e aprender. 
+[Portugol](https://dgadelha.github.io/Portugol-Webstudio/) um bom site que para estuda é erra e aprender. 
 
 Esse resumo são as informações que juguei importante obrigado por lê.
